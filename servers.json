@@ -1,0 +1,21 @@
+{
+  "servers": [
+    {
+      "name": "Server - 207.148.78.140:9669",
+      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaeHBxazF2Z0RxNjNzc2xLNEZnNWwx@207.148.78.140:9669/?outline=1"
+    },
+    {
+      "name": "Server - 38.54.117.20:40569",
+      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dmZnNENxT0tKWWlLaGFWcHpiQ24y@38.54.117.20:40569/?outline=1"
+    },
+    {
+      "name": "Server - 157.230.241.157:15620",
+      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxT0llUmx3NVhTMGdOYmJEa2c4TzJU@157.230.241.157:15620/?outline=1"
+    },
+    {
+      "name": "Server - 207.148.117.38:9669",
+      "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMbHFCRDZDbHo2aUpuVGJJUDNXVkVu@207.148.117.38:9669/?outline=1"
+    }
+  ]
+}
+
