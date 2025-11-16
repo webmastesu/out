@@ -1,19 +1,19 @@
 {
   "servers": [
     {
-      "name": "Thank You Donate",
+      "name": "သမိန်ပေါသွပ်",
       "encryptedKey": "hKpP75BnZNHCqVIjxL3kYk2RqFNziczZPY/qo6rNYIh+JNj2L2o2M11QRVmQWohfJj23dgCfxhww4e6mz+83rsKxegC6IUMAnunIZT9Z2/waPAbzb/cN3Lx2YF1s0PsbWyx3g03W959Z2nTEGTlGMh7aalINxZqmTDS0DjEm6WE="
     },
     {
-      "name": "Server - 38.54.117.20:40569",
+      "name": "တွတ်ပီ",
       "encryptedKey": "MU1Ncz9karg06qfE5t1RPoVp8r4NWT1UNpzswweMWxsGnYkB3joBX9JTUsZ1j3iKFTAhpvPZSyZ7d6U8zHq+uuLXdXknauLl1jPoz5qwa6Uij4IILjf+dU+PCIftNlwcsgw7Kwwgip9+WrVfTY6dGQ=="
     },
     {
-      "name": "Server - 157.230.241.157:15620",
+      "name": "စံရွှေမြင့်",
       "encryptedKey": "EPU4s39AdY66RKbrm1C4AblAirTRMKJRM4GQGcqLrDo8TO9du7ltVnxU6F3slcl4Iy3PXkgPgT3Fp7uipHbLIscZm1YuZBTG8ob4rkFYExlfZQT43pOgx62Gjj/Rbfgi9FQTT+B8HC7Q0eC3VLjVnx2OXBNPuMVtZIjHWq8H48I="
     },
     {
-      "name": "Server - 207.148.117.38:9669",
+      "name": "မောင်မောင်ဇာ",
       "encryptedKey": "vnyY/RW8PcjnDnjihrYUM1J/y2dY+N2kuUYiUvNoInIgjYaeJQHfcS34LJP7L7n3AdstF7ZCDpAh85M0D8vBXpXeC2RTs89z94fk7xONvGzba69kpswhD3Kk2BeLnmkZnkGMd02bw4gqX44qn4kLP8NKuIawv8OkWAWEvlIvAQ0="
     }
   ]
