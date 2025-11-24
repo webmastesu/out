@@ -1,28 +1,24 @@
 {
   "servers": [
     {
-      "name": "6f479d35efc06337ed3c9cf086cbe6452faa4586bb19f784bc826ba8aa535ac2",
-      "encryptedKey": "hKpP75BnZNHCqVIjxL3kYk2RqFNziczZPY/qo6rNYIh+JNj2L2o2M11QRVmQWohfJj23dgCfxhww4e6mz+83rsKxegC6IUMAnunIZT9Z2/waPAbzb/cN3Lx2YF1s0PsbWyx3g03W959Z2nTEGTlGMh7aalINxZqmTDS0DjEm6WE="
+      "name": "ရန်ကုန်",
+      "encryptedKey": "hKpP75BnZNHCqVIjxL3kYk2RqFNziczZPY/qo6rNYIh+JNj2L2o2M11QRVmQWohfJj23dgCfxhww4e6mz+83rsKxegC6IUMAnunIZT9Z2/waPAbzb/cN3Lx2YF1s0PsbWyx3g03W959Z2nTEGTlGMh7aalINxZqmTDS0DjEm6WE=",
+	  "county" : "https://flagsapi.com/BE/flat/64.png"
     },
     {
-      "name": "17caf2ce7dacfc965bd0c176d9dd4fa94a0102439c1968825d4905a510942f8f",
-      "encryptedKey": "LulRoueXdj/lISWlM8ogztmai0pvb1OA6cx0WRs75LEiXmbZMVT45pgmQwWLchcKT0KLxdSzFPjAdiE6r2pTwD/Qp82dN09bW7f2/KM21WdA2thc4CtJAEdqD4GdtZjgOajMUR9k5mIvOchLNw7aKpTMOO4EY7eWuzNErS5myqU="
+      "name": "တောင်ကြီး",
+      "encryptedKey": "MU1Ncz9karg06qfE5t1RPoVp8r4NWT1UNpzswweMWxsGnYkB3joBX9JTUsZ1j3iKFTAhpvPZSyZ7d6U8zHq+uuLXdXknauLl1jPoz5qwa6Uij4IILjf+dU+PCIftNlwcsgw7Kwwgip9+WrVfTY6dGQ==",
+	  "country" : "https://flagsapi.com/SG/flat/64.png"
     },
     {
-      "name": "စံရွှေမြင့်",
-      "encryptedKey": "EPU4s39AdY66RKbrm1C4AblAirTRMKJRM4GQGcqLrDo8TO9du7ltVnxU6F3slcl4Iy3PXkgPgT3Fp7uipHbLIscZm1YuZBTG8ob4rkFYExlfZQT43pOgx62Gjj/Rbfgi9FQTT+B8HC7Q0eC3VLjVnx2OXBNPuMVtZIjHWq8H48I="
+      "name": "မုံရွာ",
+      "encryptedKey": "EPU4s39AdY66RKbrm1C4AblAirTRMKJRM4GQGcqLrDo8TO9du7ltVnxU6F3slcl4Iy3PXkgPgT3Fp7uipHbLIscZm1YuZBTG8ob4rkFYExlfZQT43pOgx62Gjj/Rbfgi9FQTT+B8HC7Q0eC3VLjVnx2OXBNPuMVtZIjHWq8H48I=",
+	  "country": "https://flagsapi.com/SG/flat/64.png"
     },
     {
-      "name": "eda7cbfad6fd03bdf6371cae8f51aa94c38589047bbaf1ece7a57a18c9ab407c",
-      "encryptedKey": "vnyY/RW8PcjnDnjihrYUM1J/y2dY+N2kuUYiUvNoInIgjYaeJQHfcS34LJP7L7n3AdstF7ZCDpAh85M0D8vBXpXeC2RTs89z94fk7xONvGzba69kpswhD3Kk2BeLnmkZnkGMd02bw4gqX44qn4kLP8NKuIawv8OkWAWEvlIvAQ0="
-    },
-    {
-      "name": "e94cf9d5d1e02dad7ab41bbf59d129a99dc75877026738efea4ce4d028b12287",
-      "encryptedKey": "gftPkKTQ+t5agMTp71Czv2QsJ2pmWg8BkldQFeJ1pPifA/0PdOnnEyvWYVDOn86nAzlrJcfaM36DFkcPL1QZ7cdgLo2Lon+e63eFuO+TIrEMv6vF3/ZaARnsn4RJm0aORlUYsdOJmxqN75TnbIkwJ4EHjLsaLKqfy/OrYK+zb2c="
-    },
-    {
-            "name": "8d427ea0f485c0ae54571fdf1d24b5a129eeb69ca3aae116c50d7716e18220b1",
-            "encryptedKey": "q1wpFOJO8RK8nbgdreTl0Q/O0rE7ZkwOdSXkPioNnp54pQ810yrmkF1pKH5Wi+QkksxF2RkqdYp1E3ZiOKjmgWck/TZZVbhS8vXxxAcIhoZ/7oe8v0G2AA5oWkfDvp9eFEzPzbtxa7Eoe8J88jSkML7ZxPRiympoXGFHWagadng="
-        }
+      "name": "ပုသိမ်",
+      "encryptedKey": "vnyY/RW8PcjnDnjihrYUM1J/y2dY+N2kuUYiUvNoInIgjYaeJQHfcS34LJP7L7n3AdstF7ZCDpAh85M0D8vBXpXeC2RTs89z94fk7xONvGzba69kpswhD3Kk2BeLnmkZnkGMd02bw4gqX44qn4kLP8NKuIawv8OkWAWEvlIvAQ0=",
+	  "country": "https://flagsapi.com/SG/flat/64.png"
+    }
   ]
 }
