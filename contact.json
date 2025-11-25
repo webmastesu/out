@@ -1,4 +1,14 @@
-   {
-     "name": "facebook",
-     "image": "https://raw.githubusercontent.com/webmastesu/out/refs/heads/main/fb.jpg"
-   }
+  [
+  {
+    "name": "facebook",
+    "image": "https://raw.githubusercontent.com/webmastesu/out/refs/heads/main/fb.jpg"
+  },
+  {
+    "name": "viber",
+    "image": "https://raw.githubusercontent.com/webmastesu/out/refs/heads/main/viber.jpg"
+  },
+  {
+    "name": "telegram",
+    "image": "https://raw.githubusercontent.com/webmastesu/out/refs/heads/main/telegram.jpg"
+  }
+]
